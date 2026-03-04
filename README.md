@@ -5,12 +5,12 @@
 </p>
 <h2 align="center"></h2>
 <p>
-Hey 👋 I'm an <b>AI Engineer</b> & <b>Full-Stack Developer</b> who loves building products that think.<br/>
-I design and deploy intelligent systems across web, mobile, and cloud — blending deep learning with scalable full-stack architecture.</br>
-My projects span LLM-powered assistants, computer vision analytics, and real-time apps built with React, Next.js, Node, and PyTorch.</br>
-I believe great AI isn't just smart — it should feel seamless, human, and beautifully built.</br>
-Fueled by caffeine ☕, lo-fi beats 🎧, and pickup basketball 🏀 — I code, learn, and create what's next.</br>
-</b></p>
+Hey 👋 I'm a <b>Senior Software Engineer</b> focused on building reliable, scalable systems across web, cloud, and data platforms.<br/>
+I design and deliver backend services, distributed systems, and full-stack applications using technologies like Java, Python, React, and cloud infrastructure.<br/>
+My work often involves developing APIs, data pipelines, and event-driven architectures that power high-traffic applications and real-world workflows.<br/>
+I enjoy solving complex engineering problems, improving system reliability, and collaborating with teams to build software that is both practical and maintainable.<br/>
+Outside of coding, you'll usually find me with a coffee ☕, listening to lo-fi beats 🎧, or playing pickup basketball 🏀.
+</p>
 
 ## Core Skills 🛠️
 <table>
